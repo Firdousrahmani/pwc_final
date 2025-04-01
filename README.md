@@ -1,6 +1,6 @@
 # pwc_final
 Diversity and Inclusion
-dashboard [inclusion](https://github.com/Firdousrahmani/pwc_final/blob/main/3.png)
+dashboard ![inclusion](https://github.com/Firdousrahmani/pwc_final/blob/main/3.png)
 
 ### ** PWC Power BI Virtual Case Experience – Diversity & Inclusion Analysis
 
